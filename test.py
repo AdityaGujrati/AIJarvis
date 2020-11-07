@@ -33,6 +33,10 @@ def takeCommand():
             # engine.runAndWait()
         except:
             speak("sorry please say that again aditya sir")
+            
+            
+            
+#  here the programm end u can suggest me if u want facility more in this 
 
     return query
 
