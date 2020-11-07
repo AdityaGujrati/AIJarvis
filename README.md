@@ -3,4 +3,7 @@ The following codeis a kind of AI which will help us in enormous way. At the sta
 the code is written in Python programming Languages.
 The thing which will be done by it are:
 *it will open youtube for us when we will say open youtube
-*it w
+*it will also search anthing on wikipedia  and show u the results
+*it will also sent the email to anyone u want
+*it will also play the music u wish 
+*it will also tell u the time whenever u want
